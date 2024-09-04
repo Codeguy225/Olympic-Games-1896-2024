@@ -16,8 +16,8 @@ This project explores the historical data of Olympic medals spanning from 1896 t
 2. Dataset
 3. Analysis Goals
 4. Methodology
-5. Results
-6. Conclusions
+5. Visualizations
+6. Results
 7. Dependencies
 8. Summary
 9. Future Work
