@@ -24,11 +24,11 @@ This project explores the historical data of Olympic medals spanning from 1896 t
 10. Contributing
 11. License
 
-# *Introduction*
+# **Introduction**
 
 The Olympic Games have a rich history, with countries competing for prestige and national pride through athletic excellence. This project aims to explore this history through data, offering a detailed analysis of Olympic medal outcomes over time. By understanding the factors that contribute to success, we can gain insights into the dynamics of international sports competition and the evolution of athletic achievement.
 
-# *Dataset*
+# **Dataset**
 
 The dataset used in this project includes comprehensive historical data of Olympic medals from 1896 to 2024. The data contains information such as:
 
@@ -42,18 +42,18 @@ Continental Classification: Classification of countries into continents for aggr
 
 # **Analysis Goals**
 
-## **Identify Patterns and Trends:**
+## *Identify Patterns and Trends:*
 
 Explore overall medal distribution across years, countries, and continents.
 Analyze the relationship between athlete age and medal outcomes.
 Determine if hosting the Olympics provides a significant advantage.
 
-## **Medal Efficiency:**
+## *Medal Efficiency:*
 
 Calculate and compare medal efficiency across different continents.
 Investigate any trends or changes in efficiency over time.
 
-## **Impact of Hosting:**
+## *Impact of Hosting:*
 
 Assess how hosting the Olympics influences the host country's performance.
 Compare host country performances to their non-hosting years.
