@@ -93,23 +93,29 @@ statsmodels
 
 # **Visualizations**
 
-Total Medals Awarded Each Year.
+## **Total Medals Awarded Each Year (1896-2024).**
 
+![download](https://github.com/user-attachments/assets/aeb0ad06-be91-465a-b5c0-d869f4cfee40)
 
-Total Medals won United States.
+## **Total Medals Won by the US Over the Years.**
 
+![download](https://github.com/user-attachments/assets/acacddcf-03c6-4991-9e08-986a8fd2b4f0)
 
-Most Common Medal Won By US Yearly.
+## **Most Common Medal Won By US Yearly.**
 
+![download](https://github.com/user-attachments/assets/67d938a7-54dd-4ba2-a801-42957b78301c)
 
-US Medal Trend
+## **Medal Trend Percentage in the United States.**
 
+![download](https://github.com/user-attachments/assets/92605823-abca-4641-96da-96b18ff3e18a)
 
-Total Medals By Continents
+## **Proportion of Total Medals Won by Continent.**
 
+![download](https://github.com/user-attachments/assets/21f69b1a-0931-40de-893f-5268c1717ce2)
 
-Total Medals Over Time
+## **Countries With Most Medals Per Year Including Count.** 
 
+![download](https://github.com/user-attachments/assets/b12ee48a-a469-49c9-a777-98dbce3a74b8)
 
 # **Future Work**
 
