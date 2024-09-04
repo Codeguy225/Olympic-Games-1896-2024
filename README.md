@@ -32,11 +32,15 @@ The Olympic Games have a rich history, with countries competing for prestige and
 
 The dataset used in this project includes comprehensive historical data of Olympic medals from 1896 to 2024. The data contains information such as:
 
-Year: The year the Olympic Games were held.
-Country: The country that won the medal.
-Athlete Age: The age of the athletes at the time of winning.
-Medal Type: Gold, Silver, or Bronze.
-Event: The specific event in which the medal was won.
+- **Year:** The year the Olympic Games were held.
+
+- **Country:** The country that won the medal.
+
+- **Athlete Age:** The age of the athletes at the time of winning.
+
+- **Medal Type:** Gold, Silver, or Bronze.
+
+- **Event:** The specific event in which the medal was won.
 Host Country: Indicates whether the country was the host of the Games.
 Continental Classification: Classification of countries into continents for aggregated analysis.
 
