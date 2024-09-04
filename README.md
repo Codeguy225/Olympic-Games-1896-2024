@@ -134,6 +134,10 @@ scikit-learn (optional)
 
 statsmodels
 
+# **Summary**
+
+
+
 # **Future Work**
 
 Extend the analysis to include winter Olympics data.
@@ -144,8 +148,5 @@ Explore the impact of political and economic factors on Olympic success.
 
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements or bug fixes.
 
-# **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
