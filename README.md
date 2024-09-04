@@ -70,32 +70,6 @@ Exploratory Data Analysis (EDA): Visualize and explore the data to uncover initi
 - **Statistical Analysis:** Use statistical methods, such as ANOVA, to test hypotheses about medal outcomes.
 Machine Learning (Optional): Implement predictive models to forecast medal outcomes based on historical data.
 
-# **Results**
-
-Trends and Insights: Key findings related to medal distribution, athlete age, and hosting advantages.
-Medal Efficiency: Comparison of efficiency metrics across continents and over time.
-Impact of Hosting: Analysis of the influence of hosting the Games on a nation's medal count and overall performance.
-Conclusions
-The analysis reveals significant patterns in Olympic success, influenced by factors such as athlete age, hosting advantages, and continental efficiency. Hosting the Olympics often provides a boost in performance, while trends in medal efficiency highlight the competitive dynamics across different regions.
-
-# **Dependencies**
-
-Python 3.x
-
-Jupyter Notebook
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn (optional)
-
-statsmodels
-
 # **Visualizations**
 
 ## **Total Medals Awarded Each Year (1896-2024).**
@@ -121,6 +95,32 @@ statsmodels
 ## **Countries With Most Medals Per Year Including Count.** 
 
 ![download](https://github.com/user-attachments/assets/b12ee48a-a469-49c9-a777-98dbce3a74b8)
+
+# **Results**
+
+Trends and Insights: Key findings related to medal distribution, athlete age, and hosting advantages.
+Medal Efficiency: Comparison of efficiency metrics across continents and over time.
+Impact of Hosting: Analysis of the influence of hosting the Games on a nation's medal count and overall performance.
+Conclusions
+The analysis reveals significant patterns in Olympic success, influenced by factors such as athlete age, hosting advantages, and continental efficiency. Hosting the Olympics often provides a boost in performance, while trends in medal efficiency highlight the competitive dynamics across different regions.
+
+# **Dependencies**
+
+Python 3.x
+
+Jupyter Notebook
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn (optional)
+
+statsmodels
 
 # **Future Work**
 
