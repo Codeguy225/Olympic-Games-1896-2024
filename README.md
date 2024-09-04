@@ -76,13 +76,40 @@ The analysis reveals significant patterns in Olympic success, influenced by fact
 # **Dependencies**
 
 Python 3.x
+
 Jupyter Notebook
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn (optional)
+
 statsmodels
+
+# **Visualizations**
+
+Total Medals Awarded Each Year.
+
+
+Total Medals won United States.
+
+
+Most Common Medal Won By US Yearly.
+
+
+US Medal Trend
+
+
+Total Medals By Continents
+
+
+Total Medals Over Time
+
 
 # **Future Work**
 
