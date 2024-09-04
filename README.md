@@ -19,10 +19,10 @@ This project explores the historical data of Olympic medals spanning from 1896 t
 5. Results
 6. Conclusions
 7. Dependencies
-8. How to Run the Project
+8. Summary
 9. Future Work
 10. Contributing
-11. License
+
 
 # **Introduction**
 
@@ -136,7 +136,17 @@ statsmodels
 
 # **Summary**
 
+## *Project Insights into Olympic Medal Trends and Efficiency (1896–2024).*
 
+*This analysis uncovered crucial insights into the Olympic Games' medal trends and efficiency across countries and continents from 1896 to 2024:*
+
+- **United States Dominance:** The United States consistently leads in total medals awarded and holds the record for the most medals won in a single Olympics.
+
+- **Europe’s Supremacy:** Europe emerged as the dominant continent in terms of overall medal count, solidifying its influence across multiple Olympic Games.
+
+- **Medal Efficiency:** The study revealed significant differences in medal efficiency between continents, indicating that some continents have historically performed better relative to their participation rates.
+
+- **Host Nation Advantage:** A clear pattern of countries outperforming when they host the Olympics was observed. This advantage not only led to an increase in total medals but also affected the types of medals won, with host nations often excelling in their most common medal category.
 
 # **Future Work**
 
