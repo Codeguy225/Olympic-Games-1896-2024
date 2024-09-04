@@ -64,9 +64,10 @@ Compare host country performances to their non-hosting years.
 
 # **Methodology**
 
-Data Cleaning: Handle missing or inconsistent data, normalize entries, and ensure the dataset is ready for analysis.
+- **Data Cleaning:** Handle missing or inconsistent data, normalize entries, and ensure the dataset is ready for analysis.
 Exploratory Data Analysis (EDA): Visualize and explore the data to uncover initial insights and patterns.
-Statistical Analysis: Use statistical methods, such as ANOVA, to test hypotheses about medal outcomes.
+
+- **Statistical Analysis:** Use statistical methods, such as ANOVA, to test hypotheses about medal outcomes.
 Machine Learning (Optional): Implement predictive models to forecast medal outcomes based on historical data.
 
 # **Results**
