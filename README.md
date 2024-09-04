@@ -76,25 +76,37 @@ Machine Learning (Optional): Implement predictive models to forecast medal outco
 
 ![download](https://github.com/user-attachments/assets/aeb0ad06-be91-465a-b5c0-d869f4cfee40)
 
+- *The number of participants have varied throughout the years, due to some events being added or taken away.*
+
 ## **Total Medals Won by the US Over the Years.**
 
 ![download](https://github.com/user-attachments/assets/acacddcf-03c6-4991-9e08-986a8fd2b4f0)
+
+- *This shows the total number of medals the US has been awarded over the years.*
 
 ## **Most Common Medal Won By US Yearly.**
 
 ![download](https://github.com/user-attachments/assets/67d938a7-54dd-4ba2-a801-42957b78301c)
 
+- *This visualizes the most common medal type awarded to the US through the years.*
+
 ## **Medal Trend Percentage in the United States.**
 
 ![download](https://github.com/user-attachments/assets/92605823-abca-4641-96da-96b18ff3e18a)
+
+- *This shows the increase or decrease in the number of medals won by the US compared to the previous year.*
 
 ## **Proportion of Total Medals Won by Continent.**
 
 ![download](https://github.com/user-attachments/assets/21f69b1a-0931-40de-893f-5268c1717ce2)
 
+- *This shows us that Europe has dominated in total amount of medals won throughout the years of the Olympics.*
+
 ## **Countries With Most Medals Per Year Including Count.** 
 
 ![download](https://github.com/user-attachments/assets/b12ee48a-a469-49c9-a777-98dbce3a74b8)
+
+- *This shows that the US has pretty consistently dominated in total medals over the years.*
 
 # **Results**
 
